@@ -1,0 +1,4 @@
+#-----------modules--------
+install modules request
+install modules beautifful 4
+install virtual env
